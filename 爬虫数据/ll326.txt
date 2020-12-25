@@ -1,0 +1,5 @@
+['Combining cellular and gene therapy approaches for treatment of <span class="hitHilite">intracranial tumors</span>\n']
+['OCT 1 2013']
+['breast cancer', '<span class="hitHilite">brain cancer</span>', 'metastasis', 'gene therapy', 'immunotherapy', 'alloCTL', 'retrovirus']
+['New treatments are needed for brain metastasis, which is associated with high morbidity and mortality. Two novel cellular and gene therapy modalities were evaluated in xenograft models for human breast cancer. The individual and especially the combined treatments with alloreactive cytotoxic T lymphocytes and replicating retroviral vectors coding for prodrug activating enzymes followed later with nontoxic prodrug demonstrated efficacy without off-target effects.']
+therapy,cancer,gene,metastasis,treatments

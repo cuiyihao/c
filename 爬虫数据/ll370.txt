@@ -1,0 +1,5 @@
+['Refining endpoints in brain tumor clinical trials']
+['JUN 2012']
+['<span class="hitHilite">Brain cancer</span>', 'Clinical trials', 'Neurocognitive function']
+['As targeted therapies advance treatment for <span class="hitHilite">brain tumors</span>, standard clinical trial endpoints of survival, progression free survival and radiographic response have become insufficient to capture clinical benefit. <span class="hitHilite">Brain cancer</span> is a malignancy with neurodegenerative features. In this setting prolongation of life and/or radiographic stability are less clinically meaningful if neurocognitive function substantially declines. Hence evaluation of new therapeutic strategies should routinely include periodic assessment of neurocognitive function.']
+brain,clinical,neurocognitive,function,survival

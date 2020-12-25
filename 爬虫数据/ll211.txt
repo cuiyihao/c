@@ -1,0 +1,5 @@
+['One-Stage Resection of a Giant Petrous Bone Osteoma Associated with a Contiguous Meningioma Via a Modified Anterior Transpetrous Approach']
+['SEP 2016']
+['Anterior transpetrous approach', 'Coincidental <span class="hitHilite">intracranial tumors</span>', 'Meningioma', 'Osteoma', 'Petrous bone', 'Surgical treatment']
+['BACKGROUND: In addition to the previous 5 cases of skull base osteoma with radiologic information reported in the English literature, this is the sixth case report of this rare disease.\n<br/>\n<br/>CASE DESCRIPTION: This is the first report of a skull base osteoma with concurrent <span class="hitHilite">intracranial tumors</span>.\n<br/>\n<br/>CONCLUSION: A satisfactory 1-stage resection of the 2 contiguous lesions via a modified anterior transpetrous approach was performed.']
+br,osteoma,anterior,approach,transpetrous

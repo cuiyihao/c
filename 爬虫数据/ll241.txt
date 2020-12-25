@@ -1,0 +1,5 @@
+['Intracranial Interdigitating Dendritic Cell Sarcoma: First Case Report']
+['DEC 2015']
+['Interdigitating dendritic cell sarcoma', 'Rare <span class="hitHilite">intracranial tumors</span>']
+['BACKGROUND AND IMPORTANCE:This is the first report of a primarily intracranial interdigitating dendritic cell sarcoma (IDCS).CLINICAL PRESENTATION:A 39-year-old patient with right hemiparesis underwent complete resection of a large parafalcine tumor with subsequent complete recovery of neurological symptoms. Histologically, the tumor was diagnosed as IDCS. Extensive staging did not reveal any extracranial manifestation of this disease. After 1.5 years, the patient remains recurrence free and is being observed closely.CONCLUSION:IDCS are exceedingly rare tumors and so far have not been found intracranially. On the basis of the limited experience with extracranial occurrence, this tumor is best managed by complete resection and careful oncological observation.ABBREVIATIONS:FDCS, follicular dendritic cell sarcomaIDCS, interdigitating dendritic cell sarcomaRTU, ready-to-use kit']
+dendritic,cell,interdigitating,intracranial,idcs

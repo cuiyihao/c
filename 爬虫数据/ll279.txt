@@ -1,0 +1,5 @@
+['Schwannomas exhibit distinct size-dependent gene-expression patterns']
+['2015']
+['<span class="hitHilite">brain cancer</span>', 'neurofibromatosis', 'schwannomas', 'tumor growth', 'tumor signature']
+['Aim: Neurofibromatosis type 2 (NF2)-associated vestibular schwannomas have variable size at presentation which presents a unique challenge in NF2 patient management. Therefore, we investigated the molecular signature characteristic of the differences in size for improved individualized precise therapy. Materials &amp; methods: RNA expression analysis was performed on 15 small and 27 large NF2-associated vestibular schwannoma tumors using a microarray analyzing over 47,000 transcripts. Results: A signature of 11 genes was found to be correlated with NF2 tumor size. Conclusion: We have identified the genetic hallmark that differentiates large NF2-associated tumors from smaller tumors. This is the first time that these genes have been shown to be the hallmark for NF2 tumor size.']
+tumor,nf2,size,schwannomas,signature

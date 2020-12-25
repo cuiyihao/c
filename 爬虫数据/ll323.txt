@@ -1,0 +1,5 @@
+['Multi-Session Radiosurgery of Benign <span class="hitHilite">Intracranial Tumors</span>\n']
+['OCT 2013']
+['Radiosurgery', 'Benign', '<span class="hitHilite">Intracranial tumors</span>', 'Tumors']
+['Multi-session stereotactic radiosurgery (SRS) enables a high dose per fraction to be delivered to the tumor bed with rapid dose falloff that allows for sparing of critical structures, resulting in less radiation-associated toxicity. In this article, the authors review the basic concepts and techniques of multi-session SRS, indications for this technique, outcomes from single-session and multi-session SRS using 3 commonly treated benign <span class="hitHilite">intracranial tumors</span> (meningiomas, vestibular schwannomas, pituitary adenomas), and discuss why multi-session SRS is an attractive approach for the treatment of these tumors.']
+multi-session,tumors,srs,intracranial,benign

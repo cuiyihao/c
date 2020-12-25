@@ -1,0 +1,5 @@
+['Spatio-temporal modeling of mortality risks using penalized splines']
+['MAY-JUN 2010']
+['CAR models', 'MSE of the log-risk predictor', 'smoothing risks', '<span class="hitHilite">brain cancer</span>']
+['\n<span class="FR_label">Conference:</span>\n<value>4th International Workshop on Spatio-Temporal Modelling</value>\n<p class="FR_field">\n<span class="FR_label">Location:</span>\n<value>Alghero, ITALY</value>\n', '\n<span class="FR_label">Date:</span>\n<value>SEP 24-26, 2008</value>\n']
+fr_label,risks,spatio-temporal,splines,sep

@@ -1,0 +1,5 @@
+['Mowat-Wilson syndrome: the first report of an association with central nervous system tumors']
+['DEC 2013']
+['Mowat-Wilson syndrome', 'Cancer genetics', '<span class="hitHilite">Brain cancer</span>', "Hirschsprung's disease", 'Children']
+['Mowat-Wilson syndrome (MWS) is a rare genetic condition where variable and multiple congenital anomalies including Hirschsprung\'s disease, intellectual disability, and prominent facial features are present. At molecular level, MWS is characterized by many different described mutations in the zinc finger E-box protein 2 (ZEB2) gene, ultimately leading to loss of gene function. This report is the first to describe the association of MWS with two different asynchronous malignant <span class="hitHilite">brain tumors</span> (medulloblastoma and glioblastoma) occurring in a child.']
+syndrome,mws,mowat-wilson,disease,association

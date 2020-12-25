@@ -1,0 +1,5 @@
+['Intracranial benign fibrous histiocytoma mimicking parasagittal meningioma: report of two cases and review of literature']
+['2015']
+['Fibrous histiocytoma', 'meningioma', '<span class="hitHilite">intracranial tumors</span>']
+['Primary benign fibrous histiocytoma involving the central nervous system is an exceedingly rare tumor with most cases originating from the dura or parenchymal tissue. Diagnosis of primary benign fibrous histiocytoma is difficult due to its confusing histopathological characteristics. Two cases of primary intracranial benign fibrous histiocytoma mimicking parasagittal meningioma are presented in this report. Both tumors were gross totally resected and the patients showed no evidence of recurrence at follow-up of 12 months. The clinical features and prognosis of this rare tumor that were reported previously in the literature were also reviewed. Histopathological examination coupled with immunohistochemical staining is proved to be the convincing diagnostic method for the primary benign fibrous histiocytoma. Surgical resection is the recommendation for the therapy of the tumor.']
+fibrous,histiocytoma,benign,primary,meningioma

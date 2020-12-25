@@ -1,0 +1,5 @@
+['Two-level spatially structured models in spatio-temporal disease mapping']
+['AUG 2016']
+['<span class="hitHilite">Brain cancer</span> mortality data', 'disease mapping', 'integrated nested Laplace approximations']
+['\n<span class="FR_label">Conference:</span>\n<value>GEOMED Bi-Annual Meeting</value>\n<p class="FR_field">\n<span class="FR_label">Location:</span>\n<value>Florence, ITALY</value>\n', '\n<span class="FR_label">Date:</span>\n<value>SEP, 2015</value>\n']
+fr_label,disease,mapping,integrated,sep

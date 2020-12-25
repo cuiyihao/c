@@ -1,0 +1,5 @@
+['Immunotherapy for <span class="hitHilite">Brain Tumors</span>\n']
+['NOV 2018']
+['<span class="hitHilite">Brain cancer</span>', 'Glioma', 'Immune therapy', 'Cancer vaccines', 'Adoptive cell therapy', 'Immune checkpoint inhibitors', 'Clinical trials']
+['Despite aggressive surgery, radiation, and systemic chemotherapy, the prognosis for patients diagnosed with malignant <span class="hitHilite">brain tumors</span> remains extremely poor, and standard treatments carry significant risks for long-term neurocognitive deficits. There is a clear and urgent need for the development of more effective treatments that will add minimal toxicity to standard therapies for invasive brain cancers. Cancer immunotherapy is a treatment modality that holds promise for the delivery of tumor-specific cytotoxicity, with the potential to eliminate brain tumor cells without harming the eloquent brain.']
+brain,cancer,therapy,treatments,tumors

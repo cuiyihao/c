@@ -1,0 +1,5 @@
+['Glioblastoma multiforme in the Muir-Torre syndrome']
+['JUN 2011']
+['Muir-Torre', 'Glioblastoma', 'Mismatch repair protein', '<span class="hitHilite">Brain cancer</span>', 'Mutation']
+["Muir-Torre syndrome (MTS) is an autosomal dominant subtype of nonpolyposis colorectal carcinoma (HNPCC) characterized by the development of sebaceous gland tumors and visceral malignancies. The most common subtype of MTS is characterized by germline mutations in mismatch repair (MMR) genes leading to microsatellite instability (MSI). Central nervous system tumors have only rarely been associated with MTS. In this report, we describe the development of a glioblastoma multiforme (GBM) in a patient with MTS. Immunohistochemical analysis of the patient's colon carcinoma and his GBM both revealed loss of the mismatch repair proteins mutS homolog 2 (MSH2) and mutS homolog 6 (MSH6). (C) 2011 Elsevier B.V. All rights reserved."]
+mts,mismatch,glioblastoma,repair,muir-torre

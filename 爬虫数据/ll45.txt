@@ -1,0 +1,5 @@
+['Glioblastoma Multiforme: An Overview of Emerging Therapeutic Targets']
+['SEP 26 2019']
+['glioblastoma', 'targeted therapeutics', 'anti-cancer drugs', '<span class="hitHilite">brain cancer</span>', 'immunotherapy']
+['Glioblastoma multiforme (GBM) is the most common and aggressive malignant primary brain tumour in humans and has a very poor prognosis. The existing treatments have had limited success in increasing overall survival. Thus, identifying and understanding the key molecule(s) responsible for the malignant phenotype of GBM will yield new potential therapeutic targets. The treatment of brain tumours faces unique challenges, including the presence of the blood brain barrier (BBB), which limits the concentration of drugs that can reach the site of the tumour. Nevertheless, several promising treatments have been shown to cross the BBB and have shown promising pre-clinical results. This review will outline the status of several of these promising targeted therapies.']
+brain,promising,glioblastoma,multiforme,gbm

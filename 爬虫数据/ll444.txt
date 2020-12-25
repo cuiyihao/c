@@ -1,0 +1,5 @@
+['DRR drives <span class="hitHilite">brain cancer</span> invasion by regulating cytoskeletal-focal adhesion dynamics']
+['AUG 2010']
+['<span class="hitHilite">brain cancer</span>', 'cytoskeleton', 'cell invasion']
+['Malignant glioma invasion is a primary cause of <span class="hitHilite">brain cancer</span> treatment failure, yet the molecular mechanisms underlying its regulation remain elusive. We developed a novel functional-screening strategy and identified downregulated in renal cell carcinoma (DRR) as a regulator of invasion. We show that DRR drives invasion in vitro and in vivo. We found that while DRR is not expressed in normal glial cells, it is highly expressed in the invasive component of gliomas. Exploring underlying mechanisms, we show that DRR associates with and organizes the actin and microtubular cytoskeletons and that these associations are essential for focal adhesion (FA) disassembly and cell invasion. These findings identify DRR as a new cytoskeletal crosslinker that regulates FA dynamics and cell movement. Oncogene (2010) 29, 4636-4647; doi:10.1038/onc.2010.216; published online 14 June 2010']
+invasion,drr,cell,brain,2010

@@ -1,0 +1,5 @@
+['The Evolution of ioMRI Utilization for Pediatric Neurosurgery: A Single Center Experience']
+['2011']
+['Catheter', 'CSF diversion', 'Ependymoma', 'Ganglioglioma', 'Interventional MRI', 'Intracranial abscesses', '<span class="hitHilite">Intracranial tumors</span>', 'Neurosurgery', 'Pediatric neurosurgery', 'Subarachnoid cyst']
+['\n<span class="FR_label">Conference:</span>\n<value>2nd Annual Meeting of the Intraoperative-Imaging-Society - Intraoperative Imaging</value>\n<p class="FR_field">\n<span class="FR_label">Location:</span>\n<value>Istanbul, TURKEY</value>\n', '\n<span class="FR_label">Date:</span>\n<value>JUN 14-17, 2009</value>\n', '\n<span class="FR_label">Sponsor(s):</span>Intraoperat Imag Soc']
+fr_label,neurosurgery,intracranial,pediatric,utilization

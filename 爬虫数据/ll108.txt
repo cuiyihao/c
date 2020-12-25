@@ -1,0 +1,5 @@
+['Management of leptomeningeal metastasis in breast cancer']
+['SEP 2018']
+['Leptomeningeal metastasis', 'Breast cancer', 'Carcinomatous meningitis', 'Metastasis', 'CSF', '<span class="hitHilite">Brain cancer</span>']
+['Leptomeningeal metastasis (LM), which occurs when malignant cells spread to the central nervous system, is becoming an increasingly common complication in patients with breast cancer. Diagnosis and treatment of LM is challenging. Moreover, prognosis of patients with LM is poor, with a median survival of 6 months after diagnosis. This review highlights the strengths and limitations of currently available diagnostic tools and therapies for LM. The current treatments for LM, including radiotherapy, systemic therapy, and intrathecal treatment, aim to maintain the quality of life of patients by correcting neurological deficits and arresting neurological degeneration. However, there is no standardized therapy for LM because of a lack of randomized trials on this condition.']
+lm,metastasis,cancer,leptomeningeal,patients

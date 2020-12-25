@@ -1,0 +1,5 @@
+['Benign <span class="hitHilite">Intracranial Tumors</span>\n']
+['AUG 2018']
+['Benign <span class="hitHilite">intracranial tumors</span>', 'Meningioma', 'Schwannoma', 'Neurofibromatosis', 'Schwannomatosis']
+['Meningiomas are the most common primary intracranial tumor in adults. With schwannomas, these tumors account for almost all intracranial benign tumors. Despite the benign histologic nature of the tumor, patients may nonetheless suffer from neurologic symptoms and require treatment. Surgery remains the primary treatment for many such tumors, although radiation may be used either as a primary treatment or, commonly, for surgically inaccessible or recurrent lesions. The epidemiology, risk factors, and current data for local and systemic therapy options are reviewed. Active areas of research include exploration of the genetic landscape, identification of signaling pathway aberrations, and investigation of targeted systemic therapies.']
+tumors,intracranial,benign,treatment,primary

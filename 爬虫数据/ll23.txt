@@ -1,0 +1,5 @@
+['Assessment of neurocognitive decline in cancer patients, except <span class="hitHilite">brain cancer</span>, under long-term treatment with bevacizumab']
+['MAR 2020']
+['Bevacizumab', 'Neurocognition', 'Non-<span class="hitHilite">brain cancer</span>', 'Cancer', 'Radiotherapy', 'Chemotherapy']
+['\n<span class="FR_label">Conference:</span>\n<value>13th Meeting of the European-Association-of-Neuro-Oncology (EANO)</value>\n<p class="FR_field">\n<span class="FR_label">Location:</span>\n<value>Stockholm, SWEDEN</value>\n', '\n<span class="FR_label">Date:</span>\n<value>OCT 10-14, 2018</value>\n', '\n<span class="FR_label">Sponsor(s):</span>European Assoc Neurooncol']
+cancer,fr_label,bevacizumab,brain,meeting

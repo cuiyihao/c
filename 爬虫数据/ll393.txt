@@ -1,0 +1,5 @@
+['Novel Delivery Strategies for Glioblastoma']
+['JAN-FEB 2012']
+['Drug delivery', 'convection-based delivery', 'nanocarriers', 'gene therapy', '<span class="hitHilite">brain cancer</span> stem cells']
+['\n<span class="hitHilite">Brain tumors</span>-particularly glioblastoma multiforme-pose an important public health problem in the United States. Despite surgical and medical advances, the prognosis for patients with malignant gliomas remains grim: current therapy is insufficient with nearly universal recurrence. A major reason for this failure is the difficulty of delivering therapeutic agents to the brain: better delivery approaches are needed to improve treatment. In this article, we summarize recent progress in drug delivery to the brain, with an emphasis on convection-enhanced delivery of nanocarriers. We examine the potential of new delivery methods to permit novel drug- and gene-based therapies that target <span class="hitHilite">brain cancer</span> stem cells and discuss the use of nanomaterials for imaging of tumors and drug delivery.']
+delivery,brain,drug,therapy,glioblastoma

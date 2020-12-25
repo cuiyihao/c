@@ -1,0 +1,5 @@
+['Emerging roles of glycogen synthase kinase 3 in the treatment of <span class="hitHilite">brain tumors</span>\n']
+['2011']
+['glycogen synthase kinase 3', 'neuroprotection', 'lithium', '<span class="hitHilite">brain cancer</span>', 'DNA damage', 'epidermal growth factor receptor', 'NF kappa B', 'apoptosis and autophagy']
+['The constitutively active protein glycogen synthase kinase 3 (GSK3), a serine/threonine kinase, acts paradoxically as a tumor suppressor in some cancers while potentiates growth in others. Deciphering what governs its actions is vital for understanding many pathological conditions, including <span class="hitHilite">brain cancer</span>. What are seemingly disparate roles of GSK3 stems from the complex regulation of many cellular functions by GSK3. This review focuses on the regulation of GSK3, its role in survival, apoptosis and DNA damage, and finally its potential therapeutic impact in <span class="hitHilite">brain cancer</span>. A thorough understanding of this versatile protein is critical for improving the outcome of various diseases, especially cancer.']
+gsk3,kinase,brain,cancer,synthase

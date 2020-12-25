@@ -1,0 +1,5 @@
+['A Preliminary Study of the Effect of DBD Plasma and Osmolytes on T98G <span class="hitHilite">Brain Cancer</span> and HEK Non-Malignant Cells']
+['MAY 2013']
+['osmolytes', 'plasma', '<span class="hitHilite">brain cancer</span> cells', 'non-malignant cells']
+['Non-thermal plasmas are emerging as a novel tool for the treatment of living tissues for biological and medical purpose. In this study, we described the effect of 4 min dielectric barrier discharge (DBD) plasma on both T98G cancer and HEK normal cell lines in the presence of different concentrations of osmolytes. This treatment strategy shows a specific inhibitory effect of a 240 s plasma exposure in the presence of osmolytes against T98G <span class="hitHilite">brain cancer</span> cells only, but not on HEK normal cells. Based on these interesting properties of osmolytes, a non-thermal plasma appears to be a potential anticancer treatment strategy for different kinds of cancers in the presence of osmolytes.']
+osmolytes,plasma,cells,cancer,hek

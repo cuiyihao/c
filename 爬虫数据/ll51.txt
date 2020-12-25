@@ -1,0 +1,5 @@
+['Zika virus NS5 protein inhibits cell growth and invasion of glioma']
+['AUG 20 2019']
+['Zika virus', 'NS5', '<span class="hitHilite">Brain cancer</span>', 'Glioma cell']
+['Glioma is the most common primary brain tumor with high mortality. Given the poor outcomes with standard-of-care treatments, novel treatment strategies are needed. Oncolytic viral therapy for glioma has developed as an exciting therapeutic method in recent years. Zika virus, a member of flavivirus family, has oncolytic activity against glioma cells but the mechanism is unknown. Here, we aimed to determine which viral protein might play a critical role in mitigating glioma cell growth. We examined the tumor suppressor function of four nonstructural proteins NS1, NS3, NS4B and NS5 in human glioma cell line U87. As a result, we found that only NS5 significantly inhibited proliferation, migration and invasion of U87 cells. Moreover, expression of NS5 suppressed tumorigenicity of mouse GL261 glioma cell in vivo. Our findings provide some clues for further exploration of oncolytic Zika virus in the treatment of glioma. (C) 2019 Elsevier Inc. All rights reserved.']
+glioma,ns5,cell,virus,zika

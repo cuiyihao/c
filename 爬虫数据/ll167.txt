@@ -1,0 +1,5 @@
+['Is myelin basic protein a potential biomarker of <span class="hitHilite">brain cancer</span>?']
+['AUG 2017']
+['Proteomics', 'pseudo-selected reaction monitoring', '<span class="hitHilite">brain cancer</span>', 'cerebral spinal fluid', 'myelin basic protein']
+['\n<span class="FR_label">Conference:</span>\n<value>2nd International Conference on Innovations in Mass Spectrometry - Instrumentation and Methods (INNMS)</value>\n<p class="FR_field">\n<span class="FR_label">Location:</span>\n<value>Moscow, RUSSIA</value>\n', '\n<span class="FR_label">Date:</span>\n<value>NOV 07-11, 2016</value>\n', '\n<span class="FR_label">Sponsor(s):</span>Skolkovo Inst Sci &amp; Technol; State Univ, Moscow Inst Phys &amp; Technol; Natl Res Nucl Univ MEPHI; Russian Acad Sci, V I Talroze Inst Energy Problems Chem Phys; Russian Acad Sci, V N Orekhovich Inst Biomed Chem']
+fr_label,inst,sci,protein,moscow

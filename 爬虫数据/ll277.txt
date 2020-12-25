@@ -1,0 +1,5 @@
+[]
+['2015']
+[]
+['\n<div>Gemcitabine is known to exert a therapeutic effect on <span class="hitHilite" xmlns:bean="http://ts.thomson.com/ua/bean">brain tumors</span> despite the limited permeability of the blood-brain barrier (BBB). In our experimental research single intraperitoneal (i.p.) injection of gemcitabine 25 mg/kg provided increase in median survival of mice with intracranially transplanted Ehrlich carcinoma by 41-89% (p &lt; 0.001). In this experimental model i.p. administration of gemcitabine (permeability of the BBB of less than 10%), carmustine (good permeability of the BBB), cyclophosphamide (poor permeability of the BBB) and cisplatin (doesn\'t penetrate through the BBB) increased median survival of mice by 88% (p &lt; 0.001), 59% (p = 0.001), 35% (p = 0.005) and 18% (p = 0.302) respectively. Considering strong correlation between antitumor activity of the drugs (carmustine, cyclophosphamide and cisplatin) and their permeability of the BBB, efficacy of gemcitabine in <span class="hitHilite">intracranial tumors</span> could be due to its wide range of therapeutic doses.</div>\n']
+bbb,permeability,gemcitabine,0.001,survival

@@ -1,0 +1,5 @@
+['RRBP1 Expression in Paired Central and Peripheral Astrocytoma Tissue Microarray']
+['FEB 2019']
+['astrocytoma', '<span class="hitHilite">brain cancer</span>', 'brain neoplasms', 'malignant', 'cell proliferation', 'glioblastoma', 'MMP9', 'matrix metalloproteinase 9', 'neoplasm invasion', 'ribosome binding protein 1', 'ribosomal proteins', 'RRBP1']
+['OBJECTIVE: To develop new therapeutic targets for astrocytoma and explore potential mechanisms regulating astrocytoma relapse.\n<br/>\n<br/>STUDY DESIGN: Expression of RRBP1, MMP9, and Ki-67 was investigated at the center and periphery of astrocytoma tissues.\n<br/>\n<br/>RESULTS: RRBP1 expression was higher in peripheral than in central astrocytoma tissues, although the difference was not statistically significant. RRBP1 expression was significantly correlated with that of proliferative marker Ki-67 and invasive marker MMP9.\n<br/>\n<br/>CONCLUSION: These results indicate that high RRBP1 expression may regulate astrocytoma proliferation and invasion. However, further investigation is needed to elucidate the underlying potential mechanisms.']
+astrocytoma,rrbp1,br,expression,mmp9

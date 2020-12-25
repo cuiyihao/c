@@ -1,0 +1,5 @@
+['The role of dose escalation with intracavitary brachytherapy in the treatment of localized CNS malignancies: Outcomes and toxicities of a prospective study']
+['JAN-MAR 2010']
+['Radiation', 'Brachytherapy', 'GliaSite balloon', 'Iotrex', '<span class="hitHilite">Brain cancer</span>', 'CNS malignancies', 'GBM', 'Brain metastasis']
+['\n<span class="FR_label">Conference:</span>\n<value>30th Annual Meeting of the American-Brachytherapy-Society/World Congress of Brachytherapy</value>\n<p class="FR_field">\n<span class="FR_label">Location:</span>\n<value>Toronto, CANADA</value>\n', '\n<span class="FR_label">Date:</span>\n<value>MAY 31-JUN 02, 2009</value>\n', '\n<span class="FR_label">Sponsor(s):</span>Amer Brachytherapy Soc']
+brachytherapy,fr_label,cns,brain,malignancies

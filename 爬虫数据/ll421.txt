@@ -1,0 +1,5 @@
+['Galectin-1 and immunotherapy for <span class="hitHilite">brain cancer</span>\n']
+['APR 2011']
+['<span class="hitHilite">brain cancer</span>', 'dendritic-cell mediated immunotherapy', 'galectin-1', 'high-grade glioma', 'immune privilege']
+['The prognosis of patients diagnosed with high-grade glioma continues to be dismal in spite of multimodal treatment. Active specific immunotherapy by means of dendritic cell vaccination is considered to be a new promising concept that aims at generating an anti-tumoral immune response. However, it is now widely accepted that the success of immunotherapeutic strategies to promote tumor regression will rely not only on enhancing the effector arm of the immune response but also on downregulation of the counteracting tolerogenic signals. In this article, we summarize evidence that galectin-1, an evolutionarily conserved glycan-binding protein that is abundantly expressed in high-grade glioma, is an important player in glioma-mediated immune escape.']
+immune,glioma,high-grade,galectin-1,immunotherapy

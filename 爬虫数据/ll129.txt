@@ -1,0 +1,5 @@
+['Brain neoplasms in 40 dogs: clinical, epidemiological and pathological aspects']
+['APR 2018']
+['Brain', 'neoplasms', 'dogs', 'neurology', '<span class="hitHilite">intracranial tumors</span>', 'pathology', 'clinics']
+['A retrospective study including dogs with brain neoplasms was conducted at the Service of Neurology (SN) of the Veterinary Teaching Hospital, from 2006 to 2015, with the objective to identify and characterize breed, sex, age, neurological signs, the location, the clinical evolution, the type and origin of the tumor and the findings of complementary examinations and necropsy. Of the 40 dogs with <span class="hitHilite">brain tumors</span> included in this study 67.5% were classified as primary origin. Mixed breed dogs and Boxers were the most affected. The main clinical signs observed included seizures, behavioral changes and walk in circle. The thalamus-cortex region was the most affected. Regarding the type of the tumor, the meningioma (32.5%) and oligodendroglioma (12.5%) were the most common. The evolution of the clinical signs varied from four to 210 days (mean 44 days).']
+dogs,brain,clinical,signs,neoplasms

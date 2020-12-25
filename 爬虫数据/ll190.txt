@@ -1,0 +1,5 @@
+['Inhibition of SHH pathway mechanisms by arsenic trioxide in pediatric medulloblastomas: a comprehensive literature review']
+['FEB 20 2017']
+['Medulloblastoma', 'Sonic-hedgehog', '<span class="hitHilite">Brain cancer</span>', 'Arsenic trioxide', 'Treatment']
+['Recent innovations in the genomic understanding of medulloblastomas have provided new ways to explore this highly invasive malignant <span class="hitHilite">brain cancer</span> arising from the cerebellum. Among the four different medulloblastoma subgroups described to date, the sonic hedgehog (SHH) genetic pathway is the pathway activated in the tumorigenesis of medulloblastoma. SHH-related medulloblastomas are usually of nodular/desmoplastic histology and frequently occur in children under the age of three, an age group highly susceptible to the acute and long-term effects of treatment. Several new drugs aimed at SHH modulation are currently under development. This review focuses on the role of arsenic trioxide, a drug well established in clinical practice and probably an under-explored agent in medulloblastoma management, in the SHH pathway.']
+medulloblastoma,pathway,shh,arsenic,medulloblastomas

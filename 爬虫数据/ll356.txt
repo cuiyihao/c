@@ -1,0 +1,5 @@
+['Modular operative treatment of glioblastoma']
+['DEC 2012']
+['<span class="hitHilite">Brain cancer</span>', 'Brain Surgery', 'Fluorescence', 'Neuronavigation', 'Gliadel (R)']
+["Glioblastoma is the most frequent and most malignant primary brain tumor in adults. The essential component of treatment is open tumor resection followed by combined chemoradiotherapy with temozolomide. For surgical resection, several tools are available which help the surgeon to resect as much tumor material as possible without worsening the patient's neurological functions (maximum safe resection). The goal of this article is to explain these tools. The neurosurgical tools available for glioblastoma resection are microneurosurgery, neuronavigation, fluorescence-guided resection, local chemotherapy with gliadel wafers, functional mapping, operation under local anesthesia and intraoperative imaging procedures, such as intraoperative magnetic resonance imaging. These tools are explained in detail."]
+resection,tools,tumor,glioblastoma,brain

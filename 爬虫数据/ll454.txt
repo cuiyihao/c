@@ -1,0 +1,5 @@
+['Selective tumor blood-brain barrier opening with the kinin B2 receptor agonist [Phe(8)psi(CH2NH)Arg(9)]-BK in a F98 glioma rat model: An MRI study']
+['APR 2010']
+['Kinins', 'G protein-coupled receptor', '<span class="hitHilite">Brain cancer</span>', 'Vascular permeability', 'MRI', 'Rat']
+['\n<span class="FR_label">Conference:</span>\n<value>5th International Symposium on Peptide Receptors and Kinin</value>\n<p class="FR_field">\n<span class="FR_label">Location:</span>\n<value>Quebec City, CANADA</value>\n', '\n<span class="FR_label">Date:</span>\n<value>JUN 26-30, 2009</value>\n']
+fr_label,kinin,rat,mri,receptor

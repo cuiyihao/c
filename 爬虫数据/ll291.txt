@@ -1,0 +1,5 @@
+['Eph receptors as therapeutic targets in glioblastoma']
+['SEP 23 2014']
+['Eph receptors', '<span class="hitHilite">brain cancer</span>', 'glioma', 'glioblastoma (GBM)', 'therapeutic targeting']
+['The dismal outlook for patients with the most aggressive and common form of adult <span class="hitHilite">brain cancer</span>, glioblastoma (GBM), motivates a search for new therapeutic strategies and targets for this aggressive disease. Here we review the findings to date on the role of Eph family receptor tyrosine kinases and their ephrin ligands in <span class="hitHilite">brain cancer</span>. Expression of the Eph family of cell surface proteins is generally downregulated to very low levels in normal adult tissues making them particularly attractive for directed therapeutic targeting. Recent Eph targeting studies in pre-clinical models of GBM have been very encouraging and may provide an avenue to treat these highly refractory aggressive tumours.']
+eph,therapeutic,gbm,glioblastoma,aggressive

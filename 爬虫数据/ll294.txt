@@ -1,0 +1,5 @@
+['Tumor stem cells markers for intracranial tumour evaluation']
+['SEP 2014']
+['<span class="hitHilite">intracranial tumors</span>', 'markers', 'Stem cells']
+['\n<span class="FR_label">Conference:</span>\n<value>FEBS EMBO 2014 Conference</value>\n<p class="FR_field">\n<span class="FR_label">Location:</span>\n<value>Paris, FRANCE</value>\n', '\n<span class="FR_label">Date:</span>\n<value>AUG 30-SEP 04, 2014</value>\n', '\n<span class="FR_label">Sponsor(s):</span>FEBS; EMBO']
+fr_label,2014,sep,febs,embo

@@ -1,0 +1,5 @@
+['Brain Metastasis Detection by Resonant Raman Optical Biopsy Method']
+['2014']
+['Resonance Raman spectroscopy', 'human brain metastasis', '<span class="hitHilite">brain cancer</span>', 'cancerous detection', 'optical biopsy (OB)']
+['\n<span class="FR_label">Conference:</span>\n<value>Conference on Optical Biopsy XII</value>\n<p class="FR_field">\n<span class="FR_label">Location:</span>\n<value>San Francisco, CA</value>\n', '\n<span class="FR_label">Date:</span>\n<value>FEB 04-05, 2014</value>\n', '\n<span class="FR_label">Sponsor(s):</span>SPIE; BaySpec Inc; Energy Res Co; Hamamatsu Corp; PerkinElmer Inc; Intuit Surg, Inc; Coherent Inc; Corning Inc; Fianium Ltd; LEUKOS; NKT Photon A S; ThorLabs Inc']
+fr_label,biopsy,brain,optical,metastasis

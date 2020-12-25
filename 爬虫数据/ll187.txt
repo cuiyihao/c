@@ -1,0 +1,5 @@
+['Kinase targets in CNS drug discovery']
+['MAR 2017']
+['blood-brain barrier', '<span class="hitHilite">brain cancer</span>', 'dual-specificity kinase inhibitors', 'GSK-3', 'kinase', 'LRRK2', 'neurodegenerative diseases']
+['Originally thought to be nondruggable, kinases represent attractive drug targets for pharmaceutical companies and academia. To date, there are over 40 kinase inhibitors approved by the US FDA, with 32 of these being small molecules, in addition to the three mammalian target of rapamycin inhibitor macrolides ( sirolimus, temsirolimus and everolimus). Despite the rapid development of kinase inhibitors for cancer, presently none of these agents are approved for CNS indications. This mini perspective highlights selected kinase targets for CNS disorders, of which brain-permeable small-molecule inhibitors are reported, with demonstrated preclinical proof-of-concept efficacy. This is followed by a brief discussion on the key challenges of blood-brain barrier penetration and selectivity profiles in developing kinase inhibitors for CNS disorders.']
+kinase,inhibitors,cns,targets,barrier

@@ -1,0 +1,5 @@
+['Capturing complexity of the diffusion-weighted MR signal decay']
+['FEB 2019']
+['Magnetic resonance imaging', 'Apparent diffusion coefficient', 'Anomalous diffusion', '<span class="hitHilite">Brain cancer</span>', 'High b-value']
+['\n<span class="FR_label">Conference:</span>\n<value>14th International Bologna Conference on Magnetic Resonance in Porous Media (MRPM)</value>\n<p class="FR_field">\n<span class="FR_label">Location:</span>\n<value>Univ Florida, Gainesville, FL</value>\n', '\n<span class="FR_label">Date:</span>\n<value>FEB 18-22, 2018</value>\n', '\n<span class="FR_label">Sponsor(s):</span>Niumag; Bruker Pure Devices; Oxford Instruments; Tecmag; Magritek; Stelar; Schlumberger; Serengeo S R L; Alachua County Florida Off Tourism; Univ Florida, Dept Chem; Univ Florida, Dept Chem Engn; Univ Florida, Ctr Condensed Matter Sci; Univ Florida, Ctr Chem Phys; Univ Bologna']
+florida,univ,fr_label,chem,resonance

@@ -1,0 +1,5 @@
+['49TH ANNUAL MEETING OF THE AMERICAN SOCIETY OF CLINICAL ONCOLOGY (ASCO) CHICAGO, ILLINOIS, USA - MAY 31-JUNE 4, 2013']
+['JUL 2013']
+['Breast cancer', 'Non-small cell lung cancer', 'Leukemia', '<span class="hitHilite">Brain cancer</span>', 'Cervical cancer', 'Colorectal cancer', 'Pancreatic cancer', 'Ovarian cancer', 'Urothelial cancer']
+['A recurring theme at the 49th Annual Meeting of the American Society of Clinical Oncology (ASCO) was pathways, as oncology researchers move away from gene expression signatures and genes. To this end, many of the presentation tracks on the opening day of the meeting explored how increasing knowledge of a multitude of pathways has guided drug development across many different cancer areas. Detailed overviews and new data were presented for the tyrosine kinase-type cell surface receptor HER2 pathway in breast cancer, as well as for activated kinases in acute and chronic leukemias, and there were additional sessions on developmental immunotherapeutics, the treatment of ALK tyrosine kinase receptor-positive non-small cell lung cancer after first-line therapy, and melanoma.']
+cancer,cell,meeting,oncology,pathways

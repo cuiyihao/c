@@ -1,0 +1,5 @@
+['SVM Optimization for Brain Tumor Identification Using Infrared Spectroscopic Samples']
+['DEC 2018']
+['spectroscopy', 'tissue diagnostics', 'medical imaging', 'support vector machines', '<span class="hitHilite">brain cancer</span>']
+['The work presented in this paper is focused on the use of spectroscopy to identify the type of tissue of human brain samples employing support vector machine classifiers. Two different spectrometers were used to acquire infrared spectroscopic signatures in the wavenumber range between 1200-3500 cm(-1). An extensive analysis was performed to find the optimal configuration for a support vector machine classifier and determine the most relevant regions of the spectra for this particular application. The results demonstrate that the developed algorithm is robust enough to classify the infrared spectroscopic data of human brain tissue at three different discrimination levels.']
+brain,support,tissue,vector,infrared

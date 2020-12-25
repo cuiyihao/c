@@ -1,0 +1,5 @@
+['Involvement of long noncoding RNAs in diseases affecting the central nervous system']
+['JUN 2012']
+['long noncoding RNAs', 'epigenetics', 'RNA-binding proteins', 'RNA-targeting therapies', 'neurological disorders', '<span class="hitHilite">brain cancer</span>']
+['DNA sequences associated with protein-coding genes have been the primary focus of most genetic analyses of complex human diseases. Although we are rapidly gaining a comprehensive view of the etiology of certain central nervous system disorders, major gaps in our understanding persist. Recent studies have uncovered that many human genomic sequences are transcribed but not translated, generating an astounding diversity of noncoding RNAs (ncRNAs). This awareness should be taken into account when studying human diseases and may have profound implications on the development of novel biomarkers as well as therapies.']
+diseases,human,rnas,noncoding,central

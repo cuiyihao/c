@@ -1,0 +1,5 @@
+['Emerging Roles of Primary Cilia in Glioma']
+['FEB 20 2019']
+['glioblastoma', 'cilium', '<span class="hitHilite">brain cancer</span>', 'temozolomide', 'ciliary signaling']
+['Primary cilia are microtubule-based organelles that are typically present on cells during the G0 or G1-S/G2 phases of the cell cycle. Recent studies of glioblastoma (GBM) biopsies, a brain tumor that is notorious for its aggressive growth and resistance to treatment, show that many cells in the tumor lack cilia. At this point, it remains unclear whether primary cilia promote or suppress glioma tumorigenesis. In this review, we will discuss the different roles that have been proposed for primary cilia in glioma and how cilia may contribute to the resistance of these tumors to current therapies.']
+cilia,primary,glioma,tumor,resistance

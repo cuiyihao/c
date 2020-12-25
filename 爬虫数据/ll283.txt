@@ -1,0 +1,5 @@
+['Structurally Distinct Hybrid Polymer/Lipid Nanoconstructs Harboring a Type-I Ribotoxin as Cellular Imaging and Glioblastoma-Directed Therapeutic Vectors']
+['DEC 2014']
+['<span class="hitHilite">brain cancer</span>', 'curcin', 'folate targeting', 'ribosome inactivating protein', 'solid lipid nanoparticles']
+['A nanoformulation composed of a ribosome inactivating protein-curcin and a hybrid solid lipid nanovector has been devised against glioblastoma. The structurally distinct nano-particles were highly compatible to human endothelial and neuronal cells. A sturdy drug release from the particles, recorded upto 72 h, was reflected in the time-dependent toxicity. Folate-targeted nanoparticles were specifically internalized by glioma, imparting superior toxicity and curbed an aggressively proliferating in vitro 3D cancer mass in addition to suppressing the antiapoptotic survivin and cell matrix protein vinculin. Combined with the imaging potential of the encapsulated dye, the nanovector emanates as a multifunctional anti-cancer system.']
+lipid,structurally,imaging,nanoparticles,toxicity

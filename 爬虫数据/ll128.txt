@@ -1,0 +1,5 @@
+['Exploring the optimal ratio of D-glucose/L-aspartic acid for targeting carbon dots toward brain tumor cells']
+['APR 1 2018']
+['Optimal ratio', 'D-Glucose', 'L-Aspartic acid', 'Carbon dots', 'Targeting <span class="hitHilite">brain cancer</span>']
+['Targeting imaging to the desired site of action can increase the accuracy and effectiveness of diagnostic and treatment. In this work, a series of fluorescent carbon dots (CDs) were prepared by varying molar ratios of D-glucose (Glu) to L-aspartic acid (Asp). Their photophysical properties, morphologies and structures were investigated in detail. More important, the targeting ability was screened by confocal laser scanning microscopy and flow cytometry. The results indicate that CDs prepared from the optimal molar ratio of Glu/Asp (7:3) exhibit the highest targeting ability on C6 glioma cells, This work highlights the interplay of molecular design and corresponding functions, and open new possibility of developing state-of-art nanoparticles for biomedical applications.']
+targeting,ratio,dots,optimal,carbon

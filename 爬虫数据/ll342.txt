@@ -1,0 +1,5 @@
+['Dynamic Subcellular Imaging of Cancer Cell Mitosis in the Brain of Live Mice']
+['APR 2013']
+['GFP', 'RFP', 'mitosis', 'subcellular dynamics', '<span class="hitHilite">brain cancer</span>', 'brain metastasis', 'mouse model', 'craniotomy window', 'in vivo imaging']
+['The ability to visualize cancer cell mitosis and apoptosis in the brain in real time would be of great utility in testing novel therapies. In order to achieve this goal, the cancer cells were labeled with green fluorescent protein (GFP) in the nucleus and red fluorescent protein (RFP) in the cytoplasm, such that mitosis and apoptosis could be clearly imaged. A craniotomy open window was made in athymic nude mice for real-time fluorescence imaging of implanted cancer cells growing in the brain. The craniotomy window was reversibly closed with a skin flap. Mitosis of the individual cancer cells were imaged dynamically in real time through the craniotomy-open window. This model can be used to evaluate brain metastasis and <span class="hitHilite">brain cancer</span> at the subcellular level.']
+brain,cancer,mitosis,window,imaging
